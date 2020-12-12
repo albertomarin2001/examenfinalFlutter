@@ -36,7 +36,7 @@ class _InicioState extends State<Inicio> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Operaciones Rodolfo"),
+        title: Text("Operaciones Alberto"),
         backgroundColor: Colors.black45,
       ),
       body: Container(
